@@ -10,3 +10,6 @@ a
 fd
 dsa
 fdsa
+
+
+no main
